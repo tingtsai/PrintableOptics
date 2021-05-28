@@ -1,0 +1,54 @@
+title: PrintableOptics
+
+author: Ching-Ting Tsai & Yi-Shiou Duh
+
+#--- List of links in the navigation bar ---#
+navbar-links:
+  Characterizations: "characterizations"
+  Overhanging structures: "overhanging"
+  Resources: "https://snfexfab.stanford.edu"
+  
+#--- Logo ---#
+avatar: "/img/avatar-icon.png"
+# Cut image into a circle
+round-avatar: true
+
+social-network-links:
+email: "tingtsai@stanford.edu"
+github: tingtsai
+
+url-pretty: "Stanford ENGR 241 Project"
+
+#Color for the website
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+
+# Output options
+timezone: "America/Toronto"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+defaults:
+  scope:
+    path: "" # any file that's not a post will be a "page" layout by default
+  values:
+    layout: "page"
+
+exclude:
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
