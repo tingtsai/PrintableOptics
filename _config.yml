@@ -49,6 +49,7 @@ defaults:
 exclude:
   - README.md
   - LICENSE
+  - CNAME
 
 plugins:
   - jekyll-paginate
