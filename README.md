@@ -1,2 +1,2 @@
 # PrintableOptics
-This website demonstrating 3D printing capabilities for micro-optics
+This website demonstrates two-photon polymerization for micro-optics applications
