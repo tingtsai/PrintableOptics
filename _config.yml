@@ -8,7 +8,7 @@ navbar-links:
   Resources: "https://snfexfab.stanford.edu"
   
 #--- Logo ---#
-avatar: "/img/avatar-icon.png"
+avatar: "/assets/img/avatar-icon.png"
 # Cut image into a circle
 round-avatar: true
 
