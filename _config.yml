@@ -9,7 +9,7 @@ navbar-links:
 avatar: "/assets/img/stanford.png"
 # Cut image into a circle
 round-avatar: true
-
+ 
 social-network-links:
 email: "tingtsai@stanford.edu"
 github: tingtsai
