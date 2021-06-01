@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Process
+title: Writing Conditions
 ---
 
 ![](/assets/img/writing.png)
