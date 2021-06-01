@@ -7,11 +7,11 @@ navbar-links:
   Methods:
   - Metrics: "/md/Metrics"
   - Job File: "/md/Job"
-  Results & Characterizarions:
+  Results         :
   - Writing: "/md/Conditions"
   - Characterizations: "/md/Characterizations"
   - Functionalities: "/md/Functionalities"
-  Tips & Tricls:
+  Tips & Tricks:
   - File generation: "/md/File"
   - Mechanical stability: "/md/Overhanging" 
   - Parameters sweep: "/md/Parameter" 
