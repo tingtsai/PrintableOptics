@@ -3,8 +3,15 @@ author: Ching-Ting Tsai & Yi-Shiou Duh
   
 #--- List of links in the navigation bar ---#
 navbar-links:
-  Characterizations: "Team"
-  Resources: "https://snfexfab.stanford.edu"
+  Motivation: "/md/Motivation"
+  Results:
+  - File generation: "/md/File"
+  - Mechanical stability: "/md/Overhanging" 
+  - Parameters sweep: "/md/Parameter" 
+  Acknowledments: "/md/Team"
+  Resources: 
+  - SNF website: "https://snfexfab.stanford.edu"
+  - References: "References"
 #--- Logo ---#
 avatar: "/assets/img/stanford.png"
 # Cut image into a circle
