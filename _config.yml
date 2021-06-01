@@ -11,6 +11,7 @@ navbar-links:
   Acknowledments: "/md/Team"
   Resources: 
   - SNF website: "https://snfexfab.stanford.edu"
+  - SNSF website: "https://snsf.stanford.edu"
   - References: "References"
 #--- Logo ---#
 avatar: "/assets/img/stanford.png"
