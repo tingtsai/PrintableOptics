@@ -16,8 +16,9 @@ navbar-links:
   - File generation: "/md/File"
   - Mechanical stability: "/md/Overhanging" 
   - Parameters sweep: "/md/Parameter" 
-  Acknowledments: "/md/Team"
+ 
   Resources: 
+  - Acknowledments: "/md/Team"
   - SNF website: "https://snfexfab.stanford.edu"
   - SNSF website: "https://snsf.stanford.edu"
   - References: "References"
