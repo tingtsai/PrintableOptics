@@ -12,6 +12,7 @@ navbar-links:
   - Functionalities: "functionalities"
   Tips & Tricks:
   - File generation: "File"
+  - GWL code: "gwl"
   - Writing: "Writing" 
   - Development: "Development"
   - Post-processing: "Post-processing"
