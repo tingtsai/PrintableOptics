@@ -5,7 +5,7 @@ title: Introduction
 
 Lens miniturization is a growing field given its ability to drive revolution in many research areas. For example, the printed micro-optics could integrated with CMOS chip to increase its detection sensitivity. (Image below, left) Simultaneously, microlens could revolutionize neuroscience since minimizing footprint for endoscope is always a critical topic. (Image below, right) 
 
-![](/assets/img/introduction.png)
+![](/assets/img/mini.png)
 
 Driven by an idea to produce a better biological probe for neuroscience, we lauch a project in hope to engineer endoscope with small footprint and high bio-compatability. Two-photon polymerization is an ideal technique for us because it is cost-effective and good bio-compatability. 
 
