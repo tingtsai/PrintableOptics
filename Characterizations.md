@@ -8,7 +8,7 @@ This characterization logic is generizable for other printing process from two-p
 
 ### Scanning Electron Micorscopy (SEM) 
 SEM is intended to evaluate surface property and internal structure of the lens. SEM can provide qualitative information of surface property after printing. For the following images, SEM reveals the staircase effect after printing and help us evaluate smoothness of the structures.
-![](/assests/img/SEM.png)
+![](/assets/img/SEM.png)
 
 
 
