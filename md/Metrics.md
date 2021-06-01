@@ -1,1 +1,1 @@
-![Metrics](/assests/img/Metrics.png)
+![Metrics](/assets/img/Metrics.png)
