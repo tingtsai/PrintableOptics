@@ -3,13 +3,13 @@ author: Ching-Ting Tsai & Yi-Shiou Duh
 
 #--- List of links in the navigation bar ---#
 navbar-links:
-  Introduction: "Motivation"
+  Introduction: "Introduction"
   Methods:
   - Process: "Process"
   Results:
   - Writing: "Conditions"
   - Characterizations: "Characterizations"
-  - Functionalities: "/md/Functionalities"
+  - Functionalities: "Functionalities"
   Tips & Tricks:
   - File generation: "File"
   - Writing: "Writing" 
