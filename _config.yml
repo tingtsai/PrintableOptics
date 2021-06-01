@@ -12,7 +12,7 @@ navbar-links:
   - Characterizations: "Characterizations"
   - Functionalities: "/md/Functionalities"
   Tips & Tricks:
-  - File generation: "/md/File"
+  - File generation: "/File"
   - Mechanical stability: "/md/Overhanging" 
   - Parameters sweep: "/md/Parameter" 
  
