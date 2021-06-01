@@ -6,13 +6,12 @@ navbar-links:
   Introduction: "/md/Motivation"
   Methods:
   - Metrics: "/md/Metrics"
-  - Process Flow: "/md/Process"
-  - Job File Preparation: "/md/Job"
-  Results:
-  - Writing Conditions: "/md/Conditions"
+  - Job File: "/md/Job"
+  Results & Characterizarions:
+  - Writing: "/md/Conditions"
   - Characterizations: "/md/Characterizations"
   - Functionalities: "/md/Functionalities"
-  Tips:
+  Tips & Tricls:
   - File generation: "/md/File"
   - Mechanical stability: "/md/Overhanging" 
   - Parameters sweep: "/md/Parameter" 
