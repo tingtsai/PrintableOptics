@@ -7,4 +7,5 @@ In terms of writing, we identify two common problems happened during the writing
 
 The second common issue is bubbling. By preheating the IP-S resin on hotplate under 60 degree for 15 min. We found that this minimize the bubbling and strongly increase the writing repeatability.
 
-![](/asset/img/preheat.png)
+
+![](/assets/img/preheat.png)
