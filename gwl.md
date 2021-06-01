@@ -4,4 +4,4 @@ We write Logo "S" and Logo "tree" separately by simply assigning vertices of the
 
 For the text part, describe has a shortcut to generate that. By simply assigning several parameters such as font and line spacing, the text could be generated faily easily.
 
-![](/assets/img/gwl)
+![](/assets/img/gwl.png)
