@@ -1,6 +1,6 @@
 The process of microlens fabrication can be broken down into three process - File generation, 3-D printing, and Lens Optimization. Each step has its critical factors and we design corresponding metrics and characterization strategy to evaluate those factors.
 
-![Metrics](/assets/img/Metrics.png)
+![Metrics](/assets/img/Metrics.png) 
 
 At file generation stage, the STL files could be generated from any 3-D CAD software(AutoCAD, Solidworks, TinkerCAD, Blender, etc.). We use Zemax OpticStudio for STL file generation because its powerfulness and convenience to do ray tracing and image simulation. We further use Describe to convert STL file to writing sequences. In Describe, we can define parameters including hatching distance and slicing distance for the wrting and these parameter would highly affects the writing accuracy and performance. In micro-optics printing, the suface profile and smoothness matter the most for the optical performance. We could use Keyence Laser confocal microscope to evaluate the surface profile and use SEM and AFM to evaluate the surface roughness. 
 
