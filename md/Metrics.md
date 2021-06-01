@@ -1,1 +1,1 @@
-There are several useful metrics.
+![Metrics](/assests/img/Metrics.png)
