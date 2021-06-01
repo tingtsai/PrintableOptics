@@ -10,3 +10,7 @@ After development of our printed structures, we careful inspect our printed stru
 However, since UV-ozone etch the resin when it cleans, we also found that over-treatment damage the structures and need to be very careful. Here is an image shows the lens after UV-ozone treatment for 1hr. Many lens damaged after treatment.
 
 ![](/assets/img/overUV.png)
+
+We also tried temperature reflow for smoothening the surface. However, we found that IP-S is a resist which is very difficult to reflow. Even we heat the resist up to 200 degree for 10min, we still see very little change on the surface topography.
+
+![](/assets/img/heat.png)
