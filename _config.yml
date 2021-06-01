@@ -9,7 +9,7 @@ navbar-links:
   - Job File: "/md/Job"
   Results         :
   - Writing: "Conditions"
-  - Characterizations: "/md/Characterizations"
+  - Characterizations: "Characterizations"
   - Functionalities: "/md/Functionalities"
   Tips & Tricks:
   - File generation: "/md/File"
