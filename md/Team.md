@@ -1,1 +1,2 @@
-abcabc
+The experiments in this project are conducted by Ching-Ting Tsai (Prof. Bianxiao Cui's Lab) and Yi-Shiou Duh (Prof. Mark Brongersma group)
+We greatly appreciate Vijay Narasimhan, J Provine, and Swaroop Kommera for their mentorship and Antonio Ricco Prof. Jonathan Fan for their inputs. This project are supported by Stanford Nanofabrication Facility (SNF) and Stanford Nanoshared Facility (SNSF), and sponsored by EMD Group: Vibrant Science & Technology.
