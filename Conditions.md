@@ -1,3 +1,8 @@
+---
+layout: page
+title: Process
+---
+
 ![](/assets/img/writing.png)
 
 
