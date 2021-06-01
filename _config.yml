@@ -12,10 +12,11 @@ navbar-links:
   - Functionalities: "functionalities"
   Tips & Tricks:
   - File generation: "File"
-  - GWL code: "gwl"
   - Writing: "Writing" 
   - Development: "Development"
   - Post-processing: "Post-processing"
+  - GWL code: "gwl"
+  - Fishbone diagram: "Debugging"
  
   Others: 
   - Acknowledments: "/md/Team"
