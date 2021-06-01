@@ -46,7 +46,10 @@ Keyence 3D microscope is a direct way to visualize the lens. This microscope can
 
 
 
-### AFM is intended to provide microscopic suface smoothness property
+### Atomic Force Microscopy (AFM) 
+AFM is intended to provide microscopic suface smoothness property
+
+
 
 
 
