@@ -8,7 +8,7 @@ navbar-links:
   - Process: "/md/Metrics"
   - Job File: "/md/Job"
   Results         :
-  - Writing: "/md/Conditions"
+  - Writing: "Conditions"
   - Characterizations: "/md/Characterizations"
   - Functionalities: "/md/Functionalities"
   Tips & Tricks:
