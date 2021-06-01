@@ -26,7 +26,9 @@ In this characterization, we found that if the doublet lens were printed at the 
 
 ### Keyence laser confocal microscope 
 Keyence laser confocal microscope confocal microscope provides topography and height information and this allows us to match surface profile.
-![](/assets/img/profile.png)![](/assets/img/match.png)
+
+
+![](/assets/img/profile.png)
 
 
 
