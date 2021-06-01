@@ -38,9 +38,10 @@ Keyence laser confocal microscope confocal microscope provides topography and he
 
 
 ### Keyence 3D microscope 
-Keyence 3D microscope is a direct way to visualize the lens. This microscope can be operated in transmissive or reflective mode and sunstrate can be evaluate under 0 degree or 90 degree 
+Keyence 3D microscope is a direct way to visualize the lens. This microscope can be operated in transmissive or reflective mode and sunstrate can be evaluate under 0 degree or 90 degree.
 
 
+![](/assets/img/3Dside.png)
 
 
 
