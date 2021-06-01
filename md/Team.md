@@ -1,4 +1,5 @@
-<p>The experiments in this project are conducted by Ching-Ting Tsai (*[Prof. Bianxiao Cui's Lab](https://cuilab.stanford.edu)*) and Yi-Shiou Duh ([Prof. Mark Brongersma group](https://glam.stanford.edu/people/mark-brongersma))</p>
+The experiments in this project are conducted by Ching-Ting Tsai ([Prof. Bianxiao Cui's Lab](https://cuilab.stanford.edu)) and Yi-Shiou Duh ([Prof. Mark Brongersma group](https://glam.stanford.edu/people/mark-brongersma))<br>
+<br>
 
 <p>We greatly appreciate [Vijay Narasimhan](https://www.linkedin.com/in/vijaykrisnarasimhan/) ([EMD](https://www.emdgroup.com/en)), [J Provine] (https://www.linkedin.com/in/j-provine-65b77910/) ([Aligned Carbon] (https://www.activate.org/aligned-carbon)), and [Swaroop Kommera](https://snfexfab.stanford.edu/snf/people/swaroop-kommera) ([SNF](https://snfexfab.stanford.edu)) for their mentorship and [Antonio Ricco] (https://web.stanford.edu/~ajricco/AJRicco.htm) (NASA), Prof. [Jonathan Fan] (https://engineering.stanford.edu/people/jonathan-fan) ([Stanford EE] (https://ee.stanford.edu)) for their inputs for the project.</p>
 
