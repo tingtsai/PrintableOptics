@@ -3,18 +3,18 @@ author: Ching-Ting Tsai & Yi-Shiou Duh
 
 #--- List of links in the navigation bar ---#
 navbar-links:
-  Introduction: "/md/Motivation"
+  Introduction: "Motivation"
   Methods:
   - Process: "Process"
-  - Job File: "/md/Job"
-  Results         :
+  Results:
   - Writing: "Conditions"
   - Characterizations: "Characterizations"
   - Functionalities: "/md/Functionalities"
   Tips & Tricks:
-  - File generation: "/File"
-  - Mechanical stability: "/md/Overhanging" 
-  - Parameters sweep: "/md/Parameter" 
+  - File generation: "File"
+  - Writing: "Writing" 
+  - Development: "Development"
+  - Post-processing: "Post-processing"
  
   Others: 
   - Acknowledments: "/md/Team"
