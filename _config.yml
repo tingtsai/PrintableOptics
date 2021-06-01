@@ -5,7 +5,7 @@ author: Ching-Ting Tsai & Yi-Shiou Duh
 navbar-links:
   Introduction: "/md/Motivation"
   Methods:
-  - Process: "Process"
+  - Process: "/md/Metrics"
   - Job File: "/md/Job"
   Results         :
   - Writing: "/md/Conditions"
