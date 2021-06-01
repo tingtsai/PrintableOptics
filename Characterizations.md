@@ -15,7 +15,7 @@ SEM is intended to evaluate surface property and internal structure of the lens.
 
 
 From the 90 degree SEM, we can use this technique to evaluate the internal structures. 
-
+![](/assets/img/90deg.png)
 
 
 ### Keyence laser confocal microscope 
